@@ -11,6 +11,3 @@ To use this project, follov these steps:
 
 Technologies:
 Node JS, Mongo DB, Express JS, mongoose, ejs
-
-Architecture: 
-The project is designed in MVC
